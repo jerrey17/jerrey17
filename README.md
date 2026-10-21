@@ -146,4 +146,6 @@ cp console/.local-state/console.config.example.yaml console/.local-state/console
 | [SPEC-变更流程.md](SPEC-变更流程.md) | 改协议和改配置的路径 |
 | [skill/protocol/agent-contract.md](skill/protocol/agent-contract.md) | 权限矩阵、缺陷六态、开工信号 |
 
-许可证文件还没有选定。在选定之前，请不要把这份代码并进别的产品。
+## 许可证
+
+[Apache License 2.0](LICENSE)。Copyright 2026 ruijie zhang.
